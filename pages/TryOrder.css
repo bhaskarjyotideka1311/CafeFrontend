@@ -1,0 +1,7 @@
+.bg{
+    background-image: url("./cartoon.jpg");
+    background-size: cover;
+    /* Other styles */
+    background-position: center;
+  }
+  
